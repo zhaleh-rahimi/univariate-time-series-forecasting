@@ -38,7 +38,7 @@ This repository contains code for forecasting univariate time series data using 
 
 Clone the repository:
 ```bash
-git clone https://github.com/your_username/univariate-time-series-forecasting.git
+git clone https://github.com/zhaleh-rahimi/univariate-time-series-forecasting.git
 cd univariate-time-series-forecasting
 ```
 
@@ -116,6 +116,3 @@ The results are saved to a CSV file and can be visualized using the provided plo
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This README file provides a comprehensive overview of your project, including installation instructions, usage examples, and descriptions of the main components. Make sure to replace placeholders like `your_username` and `data/your_data.csv` with actual values relevant to your project.
