@@ -12,8 +12,7 @@ This project provides implementations for univariate time series forecasting usi
 6. [Models](#models)
 7. [Evaluation](#evaluation)
 8. [Results](#results)
-9. [Contributing](#contributing)
-10. [License](#license)
+9. [License](#license)
 
 ## Introduction
 
@@ -105,13 +104,6 @@ Evaluates the model performance using an expanding window approach.
 
 The results are saved to a CSV file and can be visualized using the provided plotting functions.
 
-## Contributing
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-foo`)
-3. Commit your changes (`git commit -am 'Add some foo'`)
-4. Push to the branch (`git push origin feature-foo`)
-5. Create a new Pull Request
 
 ## License
 
