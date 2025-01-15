@@ -1,3 +1,4 @@
+Implementations for univariate time series forecasting using ARIMA, Auto-ARIMA, and LSTM models
 # Univariate Time Series Forecasting
 
 This project provides implementations for univariate time series forecasting using ARIMA, Auto-ARIMA, and LSTM models. The code is modular and designed for easy adaptation to various datasets and forecasting requirements.
